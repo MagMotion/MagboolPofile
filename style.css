@@ -47,7 +47,7 @@ body {
 
 .CTA:link,
 .CTA:visited {
-  background-color: #1864ab;
+  background-color: #15aabf;
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
@@ -58,7 +58,7 @@ body {
   border-radius: 10px;
 }
 .CTA:hover {
-  background-color: #1c7ed6;
+  background-color: #343a40;
 }
 
 .RightBar {
